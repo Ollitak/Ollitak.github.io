@@ -1,0 +1,3 @@
+[submodule "visualized-pathfinding"]
+	path = visualized-pathfinding
+	url = https://github.com/Ollitak/visualized-pathfinding
