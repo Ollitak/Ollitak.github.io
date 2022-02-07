@@ -1,3 +1,6 @@
 [submodule "visualized-pathfinding"]
 	path = visualized-pathfinding
 	url = https://github.com/Ollitak/visualized-pathfinding
+[submodule "visualized-sorting"]
+	path = visualized-sorting
+	url = https://github.com/Ollitak/visualized-sorting
